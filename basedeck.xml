@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<deck name="Original Deck">
+    <seed name="rice_seed" quantity="6" rarity="0" climate="3" point_value="1"></seed>
+    <seed name="corn_seed" quantity="6" rarity="0" climate="3" point_value="1"></seed>
+    <seed name="bean_seed" quantity="3" rarity="1" climate="3" point_value="1"></seed>
+    <seed name="melon_seed" quantity="2" rarity="2" climate="3" point_value="1"></seed>
+
+    <seed name="cassava_seed" quantity="6" rarity="0" climate="4" point_value="1"></seed>
+    <seed name="millet_seed" quantity="6" rarity="0" climate="4" point_value="1"></seed>
+    <seed name="sugarcane_seed" quantity="3" rarity="1" climate="4" point_value="1"></seed>
+    <seed name="coffeebean_seed" quantity="2" rarity="2" climate="4" point_value="1"></seed>
+
+    <seed name="wheat_seed" quantity="6" rarity="0" climate="2" point_value="1"></seed>
+    <seed name="potato_seed" quantity="6" rarity="0" climate="2" point_value="1"></seed>
+    <seed name="apple_seed" quantity="3" rarity="1" climate="2" point_value="1"></seed>
+    <seed name="peach_seed" quantity="2" rarity="2" climate="2" point_value="1"></seed>
+
+    <seed name="lettuce_seed" quantity="6" rarity="0" climate="1" point_value="1"></seed>
+    <seed name="carrot_seed" quantity="6" rarity="0" climate="1" point_value="1"></seed>
+    <seed name="beet_seed" quantity="3" rarity="1" climate="1" point_value="1"></seed>
+    <seed name="artichoke_seed" quantity="2" rarity="2" climate="1" point_value="1"></seed>
+
+    <seed name="spinach_seed" quantity="6" rarity="0" climate="0" point_value="1"></seed>
+    <seed name="onion_seed" quantity="6" rarity="0" climate="0" point_value="1"></seed>
+    <seed name="broccoli_seed" quantity="3" rarity="1" climate="0" point_value="1"></seed>
+    <seed name="radish_seed" quantity="2" rarity="2" climate="0" point_value="1"></seed>
+</deck>
